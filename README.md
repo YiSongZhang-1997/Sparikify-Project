@@ -1,2 +1,33 @@
-# Sparikify-Project
-Sparkify Project from Udacity
+# Sparkify Project - Udacity NanoDegree
+
+## 项目动机
+Sparkify是一家音乐软件公司，用户流失率是这家公司很关键的一个问题，如果能预测用户流失率就可以尽可能挽留用户。Udacity给我提供了这家公司关于用户的数据集，我要利用机器学习模型来预测用户流失情况，来找到影响用户流失率的关键特征。
+
+## 依赖库
+**pandas**
+
+**numpy**
+
+**pyspark**
+
+**datetime**
+
+**matplotlib**
+
+## 文件说明
+### sparkify.ipynb
+数据集大小：128MB
+
+**文件处理步骤**
+
+清洗数据集
+
+利用探索性数据分析找到相关的特征并可视化
+
+利用特征工程正确提取需要的特征
+
+建立三个机器学习分类模型对标签进行预测
+
+**总结**
+
+
