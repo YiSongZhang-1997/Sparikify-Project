@@ -16,6 +16,10 @@ Sparkify是一家音乐软件公司，用户流失率是这家公司很关键的
 
 ## 文件说明
 
+**mini_sparkify_event_data.json.zip**
+
+项目用到的数据集压缩文件
+
 **sparkify.ipynb**
 
 数据集大小：128MB
